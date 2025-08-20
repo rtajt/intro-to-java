@@ -1,6 +1,8 @@
 public class MadLibs {
   /*
-   * Your description here
+   * This program generates a mad libbed story.
+   * Author: JT
+   * Date: 8/19/2025
    */
   public static void main(String[] args) {
     String name1 = "Nick";
